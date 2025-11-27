@@ -62,7 +62,7 @@ and designing clean, maintainable architectures.
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="40"/> <b>AWS (EC2, Lambda, EKS, S3)</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/> <b>AWS</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="40"/> <b>Docker</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/> <b>Kubernetes</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=terraform" width="40"/> <b>Terraform</b> &nbsp;&nbsp;
